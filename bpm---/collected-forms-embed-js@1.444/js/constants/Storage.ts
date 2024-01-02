@@ -1,0 +1,1 @@
+export const SUBMISSION = 'li_submission';

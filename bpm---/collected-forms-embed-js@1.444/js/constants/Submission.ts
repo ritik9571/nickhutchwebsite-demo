@@ -1,0 +1,1 @@
+export const TIMEOUT_TO_SUBMIT = 1500;
